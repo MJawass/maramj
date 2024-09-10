@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maramj
+- 👋 Hi, I’m Maram
 - 👀 I’m interested in science and music
 - 🌱 I’m currently an undergrad student studying computer science with a specialization in cloud computing
 - 💞️ I’m looking to collaborate on many cool things
